@@ -10,23 +10,6 @@ This project collects car listings from Divar.ir through web scraping, processes
 
 ---
 
-## Project Structure
-
-```
-CarPrice_Prediction/
-│
-├── Data/                  # Processed datasets
-├── ScrapeData/            # Raw scraped data
-│
-├── utils.py               # Helper functions
-├── 01_eda.ipynb           # Exploratory data analysis
-├── ep.ipynb               # Feature engineering and modeling
-│
-├── requirements.txt       # Project dependencies
-└── README.md
-```
-
----
 
 ## Setup
 
